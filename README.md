@@ -20,7 +20,7 @@ You can choose to build the "app" in the next.js `frontend` folder or start a fr
 
 The figma design and assets are available [here](https://www.figma.com/design/U80dz4olB6SOqyCfznYbFb/Untitled?node-id=0-1&t=Z0jPIe549CYOchol-1)
 
-<img width="270" alt="screenshot" src="">
+<img width="270" alt="screenshot" src="https://raw.githubusercontent.com/audubongit/bird-walk-take-home/refs/heads/main/screenshot.png">
 
 # Your Time
 
